@@ -25,8 +25,10 @@ C++推荐书籍、计算机能力
 ### 4、计算机程序的构造和解释
 从数据抽象、过程抽象、迭代、高阶函数等编程和控制系统复杂性的思想，到数据结构和算法，到编译器/解释器、编程语言设计
 链接: https://pan.baidu.com/s/1TC-ej8HLDq9_1stf5K-uNQ
-提取码: i0ts 
+提取码: i0ts   
 
+# stackoverflow 上对 C/C++ 问题的整理、总结和翻译。  
+作者：https://github.com/ethsonliu/stackoverflow-top-cpp  
 
 <https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list>
 
